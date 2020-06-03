@@ -3,19 +3,19 @@
 Repo containing some of the world's most burning problems. Highly subjective.
 
 ## Table of Contents
-1. [Problems](#problems)
-	2. [Climate Change](#climate-change)
-	3. [Pollution](#pollution)
-	4. [Lifestyle](#lifestyle)
-	5. [Privacy](#privacy)
-	6. [Media & Politics](#media-&-politics)
+1. [Problems](#problems)   
+	1. [Climate Change](#climate-change)   
+	2. [Pollution](#pollution)   
+	3. [Lifestyle](#lifestyle)   
+	4. [Privacy](#privacy)   
+	5. [Media and Politics](#media-and-politics)   
 
 2. [Questions & Potential Answers](#questions-&-potential-answers)
-	3. [Climate Change](#climate-change-questions)
+	1. [Climate Change](#climate-change-questions)
 
 ## Problems
 
-### 1. Climate Change
+### Climate Change
 
 - Global Warming
 	- mass extinction of species
@@ -26,7 +26,7 @@ Repo containing some of the world's most burning problems. Highly subjective.
 	- migration of people
 	- political unrest
 
-### 2. Pollution
+### Pollution
 
 - Air
 	- PM10
@@ -47,7 +47,7 @@ Repo containing some of the world's most burning problems. Highly subjective.
 - Electronics (laptops/iphones/batteries)
 - space trash (once a chain reaction of broken satellites becoming space-trash and destroying other satellites start, there is no turning back and unless someone solves it we wont be able to go to space)
 
-### 3. Lifestyle
+### Lifestyle
 
 - Over-consumption & over-production
 	- new iPhone every year
@@ -59,13 +59,13 @@ Repo containing some of the world's most burning problems. Highly subjective.
 	- Sustainability is not promoted or enforced. 
 	- Neither companies nor consumers are not held accountable for the entire lifcycle of the product. Recycling is scarce.
 
-### 4. Privacy
+### Privacy
 
 - Private companies collect/use/sell our data
 	- If you are not paying for the product, you are the product.
 - Governments spy on us 
 
-### 5. Media & Politics
+### Media and Politics
 
 - Both media and high politics seem to fuel various conflicts, whilst actively deteering out attention from the real problems and preventing us from having a consctructive debate. It's not us vs them. It's us (entire humankind) vs the problems.
 
