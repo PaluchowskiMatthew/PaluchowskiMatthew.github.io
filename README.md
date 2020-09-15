@@ -50,10 +50,11 @@ Repo containing some of the world's most burning problems. Highly subjective.
 ### Lifestyle
 
 - Over-consumption & over-production
+	- 30% of the food produced is wasted. Globally!
 	- new iPhone every year
 	- new clothes collection every 8 weeks
 	- 1 year warranty for stuff within EU (A dishwasher should last me a lifetime...)
-- Air travel will be more & more popular not less as more people in developing countries such as India or China are getting wealthy enough to be able to afford air travel)
+- Air travel will be more & more popular not less as more people in developing countries such as India or China are getting wealthy enough to be able to afford air travel and will righfully do so
 - Ever increasing growth
 	- Economy, companies & countries revolve around constant increase and growth of every single metric - production, consumption, taxes, stock prices etc. How is it sustainable?
 	- Sustainability is not promoted or enforced. 
